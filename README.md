@@ -1,2 +1,4 @@
 # La-Mulana-pedia
-Documenting the ins and outs of La-Mulana Remake.
+I've said before that I need to figure out how to make a discord pages site to get
+all the community info we've accumilated somewhere better and more centralized than
+discord, this is what this is. Nothing here yet though.
